@@ -1,4 +1,4 @@
-# blind-painter 🤖🎨
+# headless-painter 🤖🎨
 
 A simple template to use JavaScript browser drawing libraries like P5.js and Two.js in a headless node.js environment to run server-side.
 Uses JSDOM and node-canvas, to run drawing scripts in a browser-like environment.

@@ -1,5 +1,5 @@
 {
-  "name": "blind-painter",
+  "name": "headless-painter",
   "version": "1.0.0",
   "description": "🤖🎨 Minimal node.js template to draw stuff on canvas in a headless server-side environment",
   "main": "index.js",
